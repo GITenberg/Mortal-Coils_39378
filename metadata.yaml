@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/780
     wikipedia: http://en.wikipedia.org/wiki/Aldous_Huxley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39378#Mortal-Coils
 gutenberg_issued: '2012-04-05'
 gutenberg_type: Text
 identifiers:
