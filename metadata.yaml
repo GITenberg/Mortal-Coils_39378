@@ -1,0 +1,31 @@
+_repo: Mortal-Coils_39378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huxley, Aldous
+    alias: Huxley, Aldous Leonard
+    birthdate: 1894
+    deathdate: 1963
+    gutenberg_agent_id: '780'
+    url: http://www.gutenberg.org/2009/agents/780
+    wikipedia: http://en.wikipedia.org/wiki/Aldous_Huxley
+description: ''
+gutenberg_issued: '2012-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- 20th century -- Fiction'
+tableOfContents: The Gioconda smile -- Permutations among the nightingales -- The
+  Tillotson banquet -- Green tunnels -- Nuns at luncheon.
+title: Mortal Coils
+url: http://www.gutenberg.org/ebooks/39378
